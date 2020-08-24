@@ -1,7 +1,5 @@
 Text
 
-Conflict
-
-Test Text
+Conflicting Text
 
 Text
