@@ -1,7 +1,5 @@
 Text
 
-Text 2
-
-This text should conflict
+Conflicting Text
 
 Text
